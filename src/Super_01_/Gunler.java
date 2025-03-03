@@ -10,5 +10,7 @@ public class Gunler {
         System.out.println("Persembe Cuma Cumartesi");
         System.out.println("/*/*/*/");
 
+        System.out.println("Pazartesi Sali Carsamba Persembe Cuma Cumartesi Pazar");
+
     }
 }
