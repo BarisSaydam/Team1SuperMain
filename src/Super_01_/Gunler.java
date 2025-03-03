@@ -5,8 +5,10 @@ public class Gunler {
         System.out.println("Pazartesi Sali Carsamba");
         System.out.println("/*/*/*/");
 
-
         System.out.println("Merhaba dunya");
+
+        System.out.println("Persembe Cuma Cumartesi");
+        System.out.println("/*/*/*/");
 
     }
 }
